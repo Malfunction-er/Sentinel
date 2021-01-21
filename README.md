@@ -1,5 +1,5 @@
 # Sentinel
-Python script to check URL reputation through virus total and display its safety status 
+Tool to check URL reputation through virus total and display its safety status 
 
 The program takes one URL at a time, checks whether it is safe to visit or not, displays the category of the url i.e. what people visit it for and then provides an option to directly open the URL in chrome browser.
 
